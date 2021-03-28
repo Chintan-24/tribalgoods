@@ -1,2 +1,2 @@
 # tribalgoods
- project for last sem
+ project

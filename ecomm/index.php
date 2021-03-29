@@ -30,15 +30,27 @@
 						  <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
 		                  <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
 		                  <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
-						 
+		                  <li data-target="#carousel-example-generic" data-slide-to="6" class=""></li>
+		                  <li data-target="#carousel-example-generic" data-slide-to="7" class=""></li>
+		                						 
 		               
 		                </ol>
 		                <div class="carousel-inner">
 		                 
 		                  <div class="item active">
+
 		                    <img src="images/banner4.png" alt="Third slide">
 		                  </div>
-						  <div class="item">
+						  	<div class="item">
+		                    <img src="images/banner2.png" alt="Third slide">
+		                  </div>
+		                  <div class="item">
+		                    <img src="images/banner3.png" alt="Third slide">
+		                  </div>
+		                  <div class="item">
+		                    <img src="images/banner40.png" alt="Third slide">
+		                  </div>
+							<div class="item">
 		                    <img src="images/banner5.png" alt="Third slide">
 		                  </div>
 						  <div class="item">

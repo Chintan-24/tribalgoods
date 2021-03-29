@@ -39,7 +39,7 @@
 		                 
 		                  <div class="item active">
 
-		                    <img src="images/banner4.png" alt="Third slide">
+		                    <img  src="images/banner4.png"alt="Third slide">
 		                  </div>
 						  	<div class="item">
 		                    <img src="images/banner2.png" alt="Third slide">

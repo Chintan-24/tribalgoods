@@ -80,8 +80,8 @@
 				        $mail->isSMTP();                                     
 				        $mail->Host = 'smtp.gmail.com';                      
 				        $mail->SMTPAuth = true;                               
-				        $mail->Username = '';     
-				        $mail->Password = '';                    
+				        $mail->Username = 'tribalgoods01@gmail.com';     
+				        $mail->Password = 'goodLord';                    
 				        $mail->SMTPOptions = array(
 				            'ssl' => array(
 				            'verify_peer' => false,
@@ -92,11 +92,11 @@
 				        $mail->SMTPSecure = 'ssl';                           
 				        $mail->Port = 465;                                   
 
-				        $mail->setFrom('');
+				        $mail->setFrom('tribalgoods01@gmail.com');
 				        
 				        //Recipients
 				        $mail->addAddress($email);              
-				        $mail->addReplyTo('');
+				        $mail->addReplyTo('tribalgoods01@gmail.com');
 				       
 				        //Content
 				        $mail->isHTML(true);                                  

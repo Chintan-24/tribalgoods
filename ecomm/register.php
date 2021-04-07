@@ -100,7 +100,7 @@
 				       
 				        //Content
 				        $mail->isHTML(true);                                  
-				        $mail->Subject = 'ECommerce Site Sign Up';
+				        $mail->Subject = 'New Sign Up - TribalGoods';
 				        $mail->Body    = $message;
 
 				        $mail->send();

@@ -1,7 +1,7 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
 
-<link href="dist\css\AdminLTE.css" rel="stylesheet">
+<link href="dist\css\123.css" rel="stylesheet">
 
 
 <body class="hold-transition skin-blue layout-top-nav">
@@ -67,7 +67,7 @@
 		                    <img src="images/banner8.png" alt="Third slide">
 		                  </div>
 						  
-						  test test test test test test test test test test 
+					
 						  
 						  
 		                </div>
@@ -81,8 +81,10 @@
 
 		          
 				   <div class = "abcd">
-				<h1 class = "h1-aus">something something</h1>
-				<p class = "p-aus">Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h1 class = "h1-aus">Why Choose us?</h1>
+				<p class = "p-aus">Traibal goods is the place where we promote, market and sell traibal
+product such as handicrafts, arts, paintings etc. on the behalf of traibal people who don't know how to extend their product to the 
+maximum people, to help them grow and expand their business.  </p>
 				
 
 			</div>

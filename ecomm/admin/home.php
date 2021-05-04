@@ -152,7 +152,7 @@
         </div>
         <!-- ./col -->
       </div>
-      <!-- /.row -->
+      <!-- /.row
       <div class="row">
         <div class="col-xs-12">
           <div class="box">
@@ -187,10 +187,10 @@
         </div>
       </div>
 
-      </section>
+      </section> -->
       <!-- right col -->
     </div>
-  	<?php include 'includes/footer.php'; ?>
+  	<!-- <?php include 'includes/footer.php'; ?> -->
 
 </div>
 <!-- ./wrapper -->

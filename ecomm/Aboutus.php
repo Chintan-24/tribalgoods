@@ -20,8 +20,20 @@
 	        <div class="row">
 	        	
 				<div class = "abcd">
-				<h1 class = "h1-aus">something something</h1>
-				<p class = "p-aus">Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<!-- <h1 class = "h1-aus">something something</h1> -->
+				<p class = "p-aus">We are students from Dr. Shubhas Technical Campus, studying in the last semester of diploma in computer engineering. This is our final year project.
+						<br>
+								<br>	Submitted by:
+						<br>
+									Chintan Bhalodiya (186950307502)
+									<br>
+									Vandan Dave (186950307511)
+									<br>
+									Dakshesh Baraiya (186950307501)
+									<br>
+									Kuldeep Morvadiya (186950307533)
+									<br>
+									Aamir sida (1869503075)</p>
 				<hr class = "bold">
 
 			</div>

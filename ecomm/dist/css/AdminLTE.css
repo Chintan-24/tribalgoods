@@ -23,6 +23,8 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
 }
+
+ 
 /* Layout */
 .wrapper {
   height: 100%;
@@ -5672,26 +5674,4 @@ table.text-center th {
   }
 }
 
-
-  .abcd{
-    
-   max-width: 850px;
-   margin: auto;
-   background-color: white;
-   display: block;
-
-     
-  }
-
-  .h1-aus{
-
-    padding: 2rem;
-    padding-bottom: 1rem;
-  }
-
-  .p-aus{
-
-    padding: 2rem;
-    font-size: large;
-  }
 

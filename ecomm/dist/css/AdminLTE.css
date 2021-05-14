@@ -23,8 +23,6 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
 }
-
- 
 /* Layout */
 .wrapper {
   height: 100%;
@@ -3105,7 +3103,7 @@ table.text-center th {
   font-size: 40px;
   position: absolute;
   top: 50%;
-  z-index: 7;
+  z-index: 5;
   display: inline-block;
   margin-top: -20px;
 }
@@ -5673,5 +5671,3 @@ table.text-center th {
     white-space: normal !important;
   }
 }
-
-

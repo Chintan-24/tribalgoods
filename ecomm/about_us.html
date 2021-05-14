@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>About Us</h1>
+  <p>This is our Last year Project for Diploma in Computer Engineering.</p>
+
+</div>
+
+<h2 style="text-align:center">Our Team</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="teamimg/team1.jpeg" alt="CB" width="250" height="300" style="width:100%">
+      <div class="container">
+        <h2>Chintan Bhalodiya</h2>
+        <p class="title">Enroll:186950307502</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="teamimg/team2.jpeg" alt="VD" width="250" height="300"  style="width:100%">
+      <div class="container">
+        <h2>Vandan Dave</h2>
+        <p class="title">Enroll:1869503075011</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="teamimg/team3.jpeg" alt="DB" width="250" height="300" style="width:100%">
+      <div class="container">
+        <h2>Dakshesh Baraiya</h2>
+        <p class="title">Enroll:186950307501</p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="teamimg/team4.jpeg" alt="KD" width="250" height="300" style="width:100%">
+      <div class="container">
+        <h2>Kuldeep Morvadiya</h2>
+        <p class="title">Enroll:186950307533</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="teamimg/team5.jpeg" alt="AS" width="250" height="300" style="width:100%">
+      <div class="container">
+        <h2>Aamir Sida</h2>
+        <p class="title">Enroll:186950307549</p>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+</body>
+</html>

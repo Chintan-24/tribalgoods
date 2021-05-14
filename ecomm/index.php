@@ -1,9 +1,5 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
-
-<link href="dist\css\123.css" rel="stylesheet">
-
-
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 
@@ -43,7 +39,7 @@
 		                 
 		                  <div class="item active">
 
-		                    <img  src="images/banner4.png"alt="Third slide">
+		                    <img src="images/banner4.png" alt="Third slide">
 		                  </div>
 						  	<div class="item">
 		                    <img src="images/banner2.png" alt="Third slide">
@@ -66,9 +62,7 @@
 						  <div class="item">
 		                    <img src="images/banner8.png" alt="Third slide">
 		                  </div>
-						  
-					
-						  
+						  					  
 						  
 		                </div>
 		                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -79,17 +73,12 @@
 		                </a>
 		            </div>
 
-		          
-				   <div class = "abcd">
-				<h1 class = "h1-aus">Why Choose us?</h1>
-				<p class = "p-aus">Traibal goods is the place where we promote, market and sell traibal
-product such as handicrafts, arts, paintings etc. on the behalf of traibal people who don't know how to extend their product to the 
-maximum people, to help them grow and expand their business.  </p>
-				
-
-			</div>
-	      
-
+		 
+						  <h1 style="font-size: 40px; color: #333; text-transform: uppercase; font-weight: 600">E-marketplace to buy tribal products</h1><br>
+						  <ul>
+						  	<li style="font-size: 20px; text-align: justify; color: #333;">The “TribalGoods” is e-marketplace  where  in  tribal  people  can promote,market  and  sell  tribal product  such  as  handicrafts,  arts,  paintings  etc.  online  with  provision of  delivery  and  e-payment  and promotional discounts.</li>
+						  	<li style="font-size: 20px; text-align: justify; color: #333;">An e-commerce portal which will allow formal and informal merchants of tribe  to advertise and sell their products on the internet, this would permit tribal communities to make their products available on platform.</li>
+						  </ul>
 		       		<?php
 		       			$month = date('m');
 		       			$conn = $pdo->open();

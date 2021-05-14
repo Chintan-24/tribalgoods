@@ -1,2 +1,2 @@
 # tribalgoods
- projectE-commerce website
+ E-commerce website
